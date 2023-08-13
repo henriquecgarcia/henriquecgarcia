@@ -2,7 +2,7 @@
 ## Bem vindo ao meu perfil!
 
 ## Meus stats
-[![My stats](https://github-readme-stats.vercel.app/api?username=henriquecgarcia)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=henriquecgarcia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **henriquecgarcia/henriquecgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
