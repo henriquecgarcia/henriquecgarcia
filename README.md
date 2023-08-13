@@ -5,7 +5,7 @@
 [![My stats](https://github-readme-stats.vercel.app/api?username=henriquecgarcia&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Minhas linguagens mais usadas:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecgarcia&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriquecgarcia&size_weight=0.5&count_weight=0.5&theme=dark)
 
 <!--
 **henriquecgarcia/henriquecgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
